@@ -27,4 +27,8 @@ Challenges:
 
 8) Test out the `fetch` method on a collection, and the `save`, `fetch`, and `destroy` methods on a model. See what they do by default, think about REST.
 
+###Next Step
 
+When you are ready, commit your current work, and then move to the next stage
+
+* `git checkout stage-2`
