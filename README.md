@@ -1,4 +1,4 @@
-Stage 1: _, models, collections
+Stage 2: Views
 ===============================
 
 Setup:
@@ -25,3 +25,9 @@ the collection
 authors. Show an error message on the form indicating the error
 * Hack Alex's comments
 
+
+###Next Step
+
+When you are ready, commit your current work, and then move to the next stage
+
+* `git checkout stage-3`
